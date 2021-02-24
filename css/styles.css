@@ -8,6 +8,7 @@
   --very-dark-grayish-blue: hsl(237, 12%, 33%);
   --dark-grayish-blue: hsl(240, 6%, 50%);
   --light-grayish-blue: hsl(240, 5%, 91%);
+  -webkit-tap-highlight-color: transparent;
 }
 
 body {
